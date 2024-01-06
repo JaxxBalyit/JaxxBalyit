@@ -7,11 +7,13 @@ Jr. Web Developer
 I am a student in the middle of my degree in Physics Engineering. Passionate, leader, responsible, with emotional intelligence, organized. I continue learning programming, as well as specialising in Full-Stack.
 
 * 🌍  I'm based in Gto, Mex
-* 🖥️  See my portfolio at [Portfolio](http://jaxxbalyit.github.io/Resume)
+* 🖥️  See my portfolio [Here](http://jaxxbalyit.github.io/Resume)
 * ✉️  You can contact me at [chavez.emmanuel020310@gmail.com](mailto:chavez.emmanuel020310@gmail.com)
 * 🧠  I'm learning Arduino
 * 🤝  I'm open to collaborating on anything related to web development
 * ⚡  I'm secretly Spider-Man, but don't tell anyone 🕷️
+* 🚀  I'm currently working on [My Personal Blog](https://github.com/JaxxBalyit/personal-blog/)
+* 📎  Check my [CV](https://www.overleaf.com/read/vrdcwtdhhxrf#0e925f)
 
 ### Skills
 
