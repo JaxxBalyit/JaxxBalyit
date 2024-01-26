@@ -14,6 +14,7 @@ I am a student in the middle of my degree in Physics Engineering. Passionate, le
 * ⚡  I'm secretly Spider-Man, but don't tell anyone 🕷️
 * 🚀  I'm currently working on [My Personal Blog](https://github.com/JaxxBalyit/personal-blog/)
 * 📎  Check my [CV](https://www.overleaf.com/read/vrdcwtdhhxrf#0e925f)
+* 🌐  Check my Leetcode Account in [Here](https://leetcode.com/JaxxBalyit/)
 
 ### Skills
 
