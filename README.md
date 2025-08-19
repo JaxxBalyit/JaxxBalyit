@@ -13,6 +13,7 @@ I am a student in the middle of my degree in Physics Engineering. Passionate, le
 * 🤝  I'm open to collaborating on anything related to web development
 * ⚡  I'm secretly Spider-Man, but don't tell anyone 🕷️
 * 🚀  I'm currently working on [My Personal Blog](https://github.com/JaxxBalyit/personal-blog/)
+* 🕹️  Owner of [EngiBlog](https://engiblog.netlify.app)
 * 📎  Check my [CV](https://www.overleaf.com/read/vrdcwtdhhxrf#0e925f)
 * 🌐  Check my Leetcode Account in [Here](https://leetcode.com/JaxxBalyit/)
 
